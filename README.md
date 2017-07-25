@@ -1,6 +1,6 @@
 # A Sample Vr App
 
-The demo app for my Assement and i havent paid much attention to css
+The demo app for my Assement 
 ## Prerequisites
 
 [Node.js](http://nodejs.org/) >= v4 must be installed.
