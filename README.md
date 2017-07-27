@@ -1,6 +1,5 @@
 # A Sample Vr App
-
-The demo app for my Assement 
+A sample app which for 360 image viewing with A-frame library
 ## Prerequisites
 
 [Node.js](http://nodejs.org/) >= v4 must be installed.
